@@ -1,4 +1,4 @@
-from asyncio import set_child_watcher
+#from asyncio import set_child_watcher
 import pandas as pd
 import yfinance as yf
 import altair as alt
